@@ -1,0 +1,197 @@
+Year,Airline,Count
+2007,ATA,0.0
+2007,AirTran Airways,269.0
+2007,Alaska Airlines,127.0
+2007,America West,0.0
+2007,American Airlines,0.0
+2007,Continental Airlines,460.0
+2007,Delta Air Lines,392.0
+2007,FedEx,20.0
+2007,JetBlue,370.0
+2007,Northwest,90.0
+2007,Southwest Airlines,368.0
+2007,UPS Airlines,205.0
+2007,United Airlines,120.0
+2008,ATA,0.0
+2008,AirTran Airways,81.0
+2008,Alaska Airlines,7.0
+2008,American Airlines,0.0
+2008,Continental Airlines,110.0
+2008,Delta Air Lines,332.0
+2008,FedEx,0.0
+2008,JetBlue,95.0
+2008,Northwest,108.0
+2008,Southwest Airlines,384.0
+2008,UPS Airlines,0.0
+2008,United Airlines,115.0
+2009,AirTran Airways,0.0
+2009,Alaska Airlines,0.0
+2009,American Airlines,0.0
+2009,Continental Airlines,0.0
+2009,Delta Air Lines,0.0
+2009,FedEx,0.0
+2009,JetBlue,30.0
+2009,Northwest,0.0
+2009,Southwest Airlines,0.0
+2009,UPS Airlines,0.0
+2009,United Airlines,0.0
+2010,AirTran Airways,140.0
+2010,Alaska Airlines,0.0
+2010,American Airlines,0.0
+2010,Continental Airlines,0.0
+2010,Delta Air Lines,155.0
+2010,FedEx,0.0
+2010,JetBlue,113.0
+2010,Northwest,0.0
+2010,Southwest Airlines,0.0
+2010,UPS Airlines,0.0
+2010,United Airlines,0.0
+2011,AirTran Airways,16.0
+2011,Alaska Airlines,6.0
+2011,American Airlines,0.0
+2011,Continental Airlines,0.0
+2011,Delta Air Lines,0.0
+2011,FedEx,139.0
+2011,JetBlue,275.0
+2011,Southwest Airlines,262.0
+2011,UPS Airlines,0.0
+2011,United Airlines,0.0
+2012,AirTran Airways,0.0
+2012,Alaska Airlines,76.0
+2012,American Airlines,0.0
+2012,Continental Airlines,0.0
+2012,Delta Air Lines,0.0
+2012,FedEx,152.0
+2012,JetBlue,68.0
+2012,Southwest Airlines,140.0
+2012,UPS Airlines,0.0
+2012,United Airlines,0.0
+2013,Alaska Airlines,45.0
+2013,American Airlines,20.0
+2013,Delta Air Lines,0.0
+2013,FedEx,14.0
+2013,JetBlue,283.0
+2013,Southwest Airlines,60.0
+2013,UPS Airlines,0.0
+2013,United Airlines,398.0
+2014,Alaska Airlines,153.0
+2014,American Airlines,502.0
+2014,Delta Air Lines,915.0
+2014,FedEx,8.0
+2014,JetBlue,420.0
+2014,Southwest Airlines,345.0
+2014,UPS Airlines,40.0
+2014,United Airlines,381.0
+2015,Alaska Airlines,225.0
+2015,American Airlines,282.0
+2015,Delta Air Lines,958.0
+2015,FedEx,137.0
+2015,JetBlue,289.0
+2015,Southwest Airlines,276.0
+2015,Spirit Airlines,274.0
+2015,UPS Airlines,85.0
+2015,United Airlines,872.0
+2016,Alaska Airlines,184.0
+2016,American Airlines,452.0
+2016,Delta Air Lines,1206.0
+2016,FedEx,427.0
+2016,JetBlue,273.0
+2016,Southwest Airlines,631.0
+2016,Spirit Airlines,288.0
+2016,UPS Airlines,63.0
+2016,United Airlines,522.0
+2017,Alaska Airlines,237.0
+2017,American Airlines,637.0
+2017,Atlas Air,357.0
+2017,Delta Air Lines,1082.0
+2017,FedEx,428.0
+2017,JetBlue,271.0
+2017,Southwest Airlines,898.0
+2017,Spirit Airlines,456.0
+2017,UPS Airlines,332.0
+2017,United Airlines,290.0
+2018,Alaska Airlines,134.0
+2018,Allegiant Air,0.0
+2018,American Airlines,897.0
+2018,Atlas Air,324.0
+2018,Delta Air Lines,580.0
+2018,FedEx,413.0
+2018,JetBlue,278.0
+2018,Southwest Airlines,759.0
+2018,Spirit Airlines,404.0
+2018,UPS Airlines,216.0
+2018,United Airlines,599.0
+2019,Alaska Airlines,249.0
+2019,Allegiant Air,126.0
+2019,American Airlines,934.0
+2019,Atlas Air,251.0
+2019,Delta Air Lines,492.0
+2019,FedEx,370.0
+2019,Frontier,227.0
+2019,JetBlue,395.0
+2019,Southwest Airlines,402.0
+2019,Spirit Airlines,379.0
+2019,UPS Airlines,247.0
+2019,United Airlines,905.0
+2020,Alaska Airlines,57.0
+2020,Allegiant Air,69.0
+2020,American Airlines,354.0
+2020,Atlas Air,380.0
+2020,Delta Air Lines,410.0
+2020,FedEx,265.0
+2020,Frontier,141.0
+2020,JetBlue,87.0
+2020,Southwest Airlines,28.0
+2020,Spirit Airlines,225.0
+2020,UPS Airlines,229.0
+2020,United Airlines,153.0
+2021,Alaska Airlines,157.0
+2021,Allegiant Air,152.0
+2021,American Airlines,581.0
+2021,Atlas Air,386.0
+2021,Delta Air Lines,745.0
+2021,FedEx,651.0
+2021,Frontier,217.0
+2021,JetBlue,405.0
+2021,Southwest Airlines,120.0
+2021,Spirit Airlines,410.0
+2021,UPS Airlines,322.0
+2021,United Airlines,1280.0
+2022,Alaska Airlines,608.0
+2022,Allegiant Air,230.0
+2022,American Airlines,1941.0
+2022,Atlas Air,910.0
+2022,Delta Air Lines,2392.0
+2022,FedEx,599.0
+2022,Frontier,562.0
+2022,JetBlue,826.0
+2022,Southwest Airlines,1140.0
+2022,Spirit Airlines,995.0
+2022,UPS Airlines,425.0
+2022,United Airlines,2500.0
+2023,Alaska Airlines,379.0
+2023,Allegiant Air,296.0
+2023,American Airlines,2211.0
+2023,Atlas Air,554.0
+2023,Delta Air Lines,2424.0
+2023,FedEx,2.0
+2023,Frontier,496.0
+2023,Hawaiian Airlines,179.0
+2023,JetBlue,498.0
+2023,Southwest Airlines,1916.0
+2023,Spirit Airlines,879.0
+2023,UPS Airlines,13.0
+2023,United Airlines,2349.0
+2024,Alaska Airlines,18.0
+2024,Allegiant Air,252.0
+2024,American Airlines,749.0
+2024,Atlas Air,417.0
+2024,Delta Air Lines,1022.0
+2024,FedEx,0.0
+2024,Frontier,303.0
+2024,Hawaiian Airlines,52.0
+2024,JetBlue,122.0
+2024,Southwest Airlines,294.0
+2024,Spirit Airlines,0.0
+2024,UPS Airlines,288.0
+2024,United Airlines,1317.0
