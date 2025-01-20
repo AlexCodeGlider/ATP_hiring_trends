@@ -25,15 +25,13 @@ You can view the visualizations by clicking on the links below:
 
 ## Graphs
 
-![Airline Hiring Trends](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/airline_hiring_trends.png)
-![Business Jet Shipments](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/business_jet_shipments.png)
-![Business Jet Yearly Shipments by Make](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/business_jet_yearly_shipments_by_make.png)
-![Certificates Issued by Age Group](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/certificates_issued_age_group.png)
-![Certificates Issued Each Year](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/certificates_issued_each_year.png)
-![Turboprop Shipments](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/turboprops_shipments.png)
-![Turboprop Yearly Shipments by Make](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/turboprops_yearly_shipments_by_make.png)
-![Yearly Total Shipments of Business Jets](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/yearly_total_shipments_business_jet.png)
-![Yearly Total Shipments of Turboprops](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/yearly_total_shipments_turboprops.png)
+![Airline Hiring Trends](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/ATP_hiring_trendline.png)
+![All Airline Hiring Trend](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/yearly_hiring_trends_all.png)
+![Certificates Issued by Age Group](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/ATP_certificates_held_by_age_group.png)
+![Certificates Issued Each Year](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/ATP_certificates_held_by_year.png)
+![Enplaned Passengers By Airline July 2024](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/Enplaned_Passengers_By_Airline_July_2024.png)
+![graphs/On_Time_Performance_By_Airline_July_2024.png](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/On_Time_Performance_By_Airline_July_2024.png)
+![graphs/Cancellation_Rates_By_Airline_July_2024.png](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/Cancellation_Rates_By_Airline_July_2024.png)
 
 ## How to Run
 
