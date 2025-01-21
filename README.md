@@ -13,15 +13,15 @@ This project analyzes trends in ATP (Airline Transport Pilot) hiring and aircraf
 
 You can view the visualizations by clicking on the links below:
 
-- [Airline Hiring Trends](https://alexcodeglider.github.io/ATP_hiring_trends/airline_hiring_trends.html)
-- [Business Jet Shipments](https://alexcodeglider.github.io/ATP_hiring_trends/bussiness_jet_shipments.html)
-- [Business Jet Yearly Shipments by Make](https://alexcodeglider.github.io/ATP_hiring_trends/bussiness_jet_yearly_shipments_by_make.html)
-- [Certificates Issued by Age Group](https://alexcodeglider.github.io/ATP_hiring_trends/certificates_issued_age_group.html)
-- [Certificates Issued Each Year](https://alexcodeglider.github.io/ATP_hiring_trends/certificates_issued_each_year.html)
-- [Turboprop Shipments](https://alexcodeglider.github.io/ATP_hiring_trends/turboprops_shipments.html)
-- [Turboprop Yearly Shipments by Make](https://alexcodeglider.github.io/ATP_hiring_trends/turboprops_yearly_shipments_by_make.html)
-- [Yearly Total Shipments of Business Jets](https://alexcodeglider.github.io/ATP_hiring_trends/yearly_total_shipments_bussiness_jet.html)
-- [Yearly Total Shipments of Turboprops](https://alexcodeglider.github.io/ATP_hiring_trends/yearly_total_shipments_turboprops.html)
+- [Airline Hiring Trends](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/airline_hiring_trends.html)
+- [Business Jet Shipments](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/bussiness_jet_shipments.html)
+- [Business Jet Yearly Shipments by Make](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/bussiness_jet_yearly_shipments_by_make.html)
+- [Certificates Issued by Age Group](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/certificates_issued_age_group.html)
+- [Certificates Issued Each Year](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/certificates_issued_each_year.html)
+- [Turboprop Shipments](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/turboprops_shipments.html)
+- [Turboprop Yearly Shipments by Make](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/turboprops_yearly_shipments_by_make.html)
+- [Yearly Total Shipments of Business Jets](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/yearly_total_shipments_bussiness_jet.html)
+- [Yearly Total Shipments of Turboprops](https://alexcodeglider.github.io/ATP_hiring_trends/graphs/yearly_total_shipments_turboprops.html)
 
 ## Graphs
 
