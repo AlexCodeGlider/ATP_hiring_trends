@@ -55,3 +55,8 @@ footer .container {
     display: flex;
     justify-content: center;
 }
+
+/* Paragraph styles */
+p {
+    font-size: 22px; /* Adjust the size as needed */
+}
